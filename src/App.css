@@ -1,0 +1,36 @@
+body{
+    background-color: #cc0000;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App{
+    margin: 20px;
+    color: white;
+}
+
+.pokemon{
+    padding: 3px;
+    text-align: center;
+    width: 200px;
+    background-color: white;
+    color: #222222;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.bug {
+    color: #A8B820;
+}
+
+.fire {
+    color: #F08030;
+}
+
+.water {
+    color: #6890f0;
+}
+
+.grass {
+    color: #78c850;
+}
